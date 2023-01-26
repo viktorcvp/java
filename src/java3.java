@@ -19,9 +19,7 @@ public class java3 {
                 return newArray;
         }
 }
-// {
-// return Arrays.stream(arr)
-// .filter(x -> x % 2 == 0); }
+
 
 
 
